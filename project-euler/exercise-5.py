@@ -4,7 +4,7 @@
 # What is the smallest positive number that is evenly divisible
 # by all of the numbers from 1 to 20?
 
-divisor_list = [20, 19, 18, 17, 16, 15, 14, 13, 12, 11]
+divisor_list = [19, 17, 16, 13, 11]
 
 
 def divisible(n, lst):

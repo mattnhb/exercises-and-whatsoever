@@ -5,3 +5,4 @@
 
 my_list = list(range(0, 1000))
 answer = sum([number for number in my_list if number % 3 == 0 or number % 5 == 0])
+print(answer)
